@@ -2,7 +2,7 @@
 Project Description
 This Python script provides an automated solution for backing up a specified folder to a destination directory. The backup creates a timestamped folder to ensure unique backups and tracks the number of files copied. It is designed for simplicity and reliability, making it suitable for personal or small-scale data management tasks.
 
-Features
+Features 
 Automated Backup: Copies an entire folder recursively to a chosen destination.
 Timestamped Backups: Generates unique backup folder names using the current date and time (format: backup_YYYY-MM-DD_HH-MM-SS).
 File Count Display: Reports the total number of files backed up after completion.
